@@ -1,0 +1,18 @@
+Make different types of variables
+Make an empty list
+For loop
+While loop
+Playing with strings
+If statement
+Read text files
+Write a text file
+Write a function (method)
+Input in the console
+Output to console (print)
+Playing with lists
+Module imports
+Graphical user interface (tkinter)
+Task Age
+Task Class
+Task Date
+Task Square

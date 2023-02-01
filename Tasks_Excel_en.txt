@@ -1,0 +1,10 @@
+How to add a formula?
+How to disable automatic calculation?
+How to manually update the calculated result?
+How to make borders?
+How to color text?
+How to color cell background?
+How to rename a worksheet?
+How do I change the location of a worksheet?
+How to make a diagram?
+How to add units to numbers?

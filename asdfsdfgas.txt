@@ -1,0 +1,18 @@
+Kerdo Arikas  - Module imports
+Peeter Ivask  - Task Age
+Sandra Järve  - Make different types of variables
+Oleksandr Krutko  - Read text files
+Monika Künnapas  - Task Square
+Sander Lehtoja  - Task Class
+Esme Lumi  - If statement
+Justin Mihklep  - Input in the console
+Kaspar Muuli  - Make an empty list
+Joosep Padu  - Graphical user interface (tkinter)
+AP Joel Pailk  - For loop
+Marek Reimal  - While loop
+Mirko Salus  - Write a text file
+Martin Sikka  - Output to console (print)
+Raino Tiru  - Playing with lists
+Irina Vassilko  - Task Date
+Maksim Vedernikov  - Playing with strings
+Lily Veinberg  - Write a function (method)
